@@ -9,6 +9,11 @@ client:
     defaultZone: http://localhost:8761/eureka/
 
 
+common:
+  greeting: Hi lode , from CONFIG SERVER
+    
+
+
     
 
 
